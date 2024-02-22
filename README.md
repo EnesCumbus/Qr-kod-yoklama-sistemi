@@ -1,2 +1,3 @@
-![Resim Açıklaması](Qr-kod-yoklama-sistemi/Proje Resimleri/1)
 
+
+![1](https://github.com/EnesCumbus/Qr-kod-yoklama-sistemi/assets/149635681/20ad794a-66ab-45a6-934e-105062da8e2c)
